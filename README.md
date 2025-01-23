@@ -3,7 +3,7 @@
 Hi there! 👋 I'm **Tyson Lanier**, a budding programmer with a passion for problem-solving and learning.
 My journey in programming started recently, but I've been diving deep into Python and steadily building my skills in other technologies.
 I'm excited to channel my background in renewable energy, technical sales, and project management into the world of software development,
-creating efficient, impactful solutions.
+creating efficient and sustainable solutions.
 
 ---
 
