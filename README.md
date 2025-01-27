@@ -8,7 +8,7 @@ creating efficient and sustainable solutions.
 ---
 
 ### 🚀 About Me:
-- 🌱 **Currently Learning**: Python, PEP 8 best practices, Pygame, Matplotlib and Plotly.
+- 🌱 **Currently Learning**: Python, PEP 8 best practices, Pygame, Matplotlib, Plotly and Django.
 - 🧰 **Programming Interests**:
   - Automation and scripting
   - Data analysis and visualization
